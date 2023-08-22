@@ -1,5 +1,7 @@
 # <img src="static/content.png" width="100" height="100" style="vertical-align: middle;"> FlashTube <i><span style="font-size: 0.8em;">for the "busy"</span></i>
 
+## Video Demo: https://www.youtube.com/watch?v=mkeV2Bt4pxI&ab_channel=MS
+
 ## Overview
 In today's fast-paced world, staying updated with your favorite YouTube content can be a challenge. Introducing FlashTube, a revolutionary application designed to provide concise and insightful summaries of YouTube videos. Whether you're looking to catch up on the latest trends, follow educational content, or simply explore new entertainment, FlashTube offers a quick overview at your fingertips. 
 
